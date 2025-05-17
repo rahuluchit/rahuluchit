@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Rahul Uchit
+### **Clinical Data Management Professional | 13+ Years in CDM |SDTM SAS/R/Python | CDISC | Regulatory Compliance**  
 
-<!--
-**rahuluchit/rahuluchit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 **Current Focus:** Clinical trial data standardization, SDTM/ADaM, AI in clinical data  
+- 🌱 **Learning:** Machine learning for clinical data analytics  
+- 💬 **Ask me about:** CDISC standards, EDC systems (Inform,Veeva, Medidata Rave), SAS programming  
+- 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/rahuluchit1111) | [Email](mailto:raulfia.uchit@gmail.com)  
 
-Here are some ideas to get you started:
+### **Technical Skills**  
+- **Programming:** SAS, R, Python, SQL  
+- **CDISC Standards:** SDTM, ADaM, CDASH, Define-XML  
+- **EDC Systems:** Medidata Rave, Veeva, Oracle Clinical  
+- **Regulatory Compliance:** FDA 21 CFR Part 11, ICH-GCP, GDPR  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Featured Projects**  
+- [SDTM Automation Tool](https://github.com/your-repo) → Python script for SDTM mapping  
+- [Clinical Data Quality Checks](https://github.com/your-repo) → R scripts for data validation  
+- [CDISC Compliance Guide](https://github.com/your-repo) → Documentation repo
