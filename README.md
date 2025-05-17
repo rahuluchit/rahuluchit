@@ -15,4 +15,12 @@
 ### **Featured Projects**  
 - [SDTM Automation Tool](https://github.com/your-repo) → Python script for SDTM mapping  
 - [Clinical Data Quality Checks](https://github.com/your-repo) → R scripts for data validation  
-- [CDISC Compliance Guide](https://github.com/your-repo) → Documentation repo
+- [CDISC Compliance Guide](https://github.com/your-repo) → Documentation repo 
+📂 Clinical-Data-Validation  
+├── 📄 SDTM_checks.sas  → SAS script for SDTM compliance  
+├── 📄 ADaM_validation.R → R script for ADaM checks  
+└── 📄 README.md → Explanation of use cases  
+
+📂 CDISC-Guides  
+├── 📄 SDTM_implementation.md → Best practices  
+└── 📄 Define-XML_template.xml → Sample metadata
