@@ -13,8 +13,10 @@
 - **Regulatory Compliance:** FDA 21 CFR Part 11, ICH-GCP, GDPR  
 
 ### **Featured Projects** 
+1) SQL-HandsOn-Projects
+https://github.com/rahuluchit/SQL-HandsOn-Projects
 
-1)🐍 Python Hands-on Projects
+2)🐍 Python Hands-on Projects
 
 This repository contains a collection of Python exercises and real-world examples I practiced using Colab.
 
@@ -26,9 +28,9 @@ Explore topics such as:
 - Automation scripts
 - Hands-on problem solving
 
-2) [SDTM Automation Tool](https://github.com/your-repo) → Python script for SDTM mapping  
-3) [Clinical Data Quality Checks](https://github.com/your-repo) → R scripts for data validation  
-4)-[CDISC Compliance Guide](https://github.com/your-repo) → Documentation repo 
+3) [SDTM Automation Tool](https://github.com/your-repo) → Python script for SDTM mapping  
+4) [Clinical Data Quality Checks](https://github.com/your-repo) → R scripts for data validation  
+5)-[CDISC Compliance Guide](https://github.com/your-repo) → Documentation repo 
 📂 Clinical-Data-Validation  
 ├── 📄 SDTM_checks.sas  → SAS script for SDTM compliance  
 ├── 📄 ADaM_validation.R → R script for ADaM checks  
