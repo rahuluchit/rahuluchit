@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rahul Uchit
-### **Clinical Data Management Professional | 13+ Years in CDM |SDTM SAS/R/Python | CDISC | Regulatory Compliance**  
+### **Clinical Data Management Professional | 14+ Years in CDM |SDTM SAS/R/Python | CDISC | Regulatory Compliance**  
 
 - 🔭 **Current Focus:** Clinical trial data standardization, SDTM/ADaM, AI in clinical data  
 - 🌱 **Learning:** Machine learning for clinical data analytics  
